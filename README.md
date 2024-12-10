@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate engineering student with a keen i
 
 - [Face Recognition Attendance System](https://github.com/Tarun-karrthick-rs/face-detection-attendance-system)
 - [Fantasy Sports Platform](https://github.com/Tarun-karrthick-rs/project-frontend)
-- Self Balancing Robot
+- [Self Balancing Robot](https://github.com/Tarun-karrthick-rs/Self-balancing-robot)
 
 ---
 
