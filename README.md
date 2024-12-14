@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I'm a passionate engineering student with a keen i
 
 ---
 
-## 🌟 Current Projects
+## 🌟  Projects
 
 - [Face Recognition Attendance System](https://github.com/Tarun-karrthick-rs/face-detection-attendance-system)
+- [Vision Cursor](https://github.com/Tarun-karrthick-rs/Vision-Cursor)
 - [Fantasy Sports Platform](https://github.com/Tarun-karrthick-rs/project-frontend)
 - [Self Balancing Robot](https://github.com/Tarun-karrthick-rs/Self-balancing-robot)
 
